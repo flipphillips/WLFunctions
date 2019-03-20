@@ -1,0 +1,399 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     17009,        389]
+NotebookOptionsPosition[     15558,        357]
+NotebookOutlinePosition[     15897,        372]
+CellTagsIndexPosition[     15854,        369]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["NotebookRelativePath", "Section",
+ CellChangeTimes->{{3.762106219170129*^9, 
+  3.762106225480937*^9}},ExpressionUUID->"aa5cf197-10b4-4517-8bc0-\
+4677af49ad0f"],
+
+Cell["Delete it from the current session/setup", "Text",
+ CellChangeTimes->{{3.762106231477167*^9, 
+  3.762106236888092*^9}},ExpressionUUID->"107ec88d-d3d0-4c45-ad1f-\
+085b7279596f"],
+
+Cell[BoxData[
+ RowBox[{"DeleteObject", "[", 
+  RowBox[{"ResourceObject", "[", "\"\<NotebookRelativePath\>\"", "]"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.762105773868033*^9, 3.7621057738690653`*^9}},
+ CellLabel->"In[13]:=",ExpressionUUID->"cff25cb0-6a3d-45dc-aabe-115d70e52f94"],
+
+Cell["Search for it", "Text",
+ CellChangeTimes->{{3.762106240173671*^9, 
+  3.762106244999337*^9}},ExpressionUUID->"67a4b088-70ca-4953-bf4b-\
+3bf524f0e6d3"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ResourceObject", "[", "\"\<NotebookRelativePath\>\"", 
+  "]"}]], "Input",
+ CellLabel->"In[14]:=",ExpressionUUID->"f25bb930-7a28-4862-9771-eb4fa8eadf6a"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   TagBox["ResourceObject",
+    "SummaryHead"], "[", 
+   DynamicModuleBox[{Typeset`open$$ = True, Typeset`embedState$$ = "Ready"}, 
+    TemplateBox[{PaneSelectorBox[{False -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquarePlusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = True), Appearance -> None, 
+              Evaluator -> Automatic, Method -> "Preemptive"], 
+             Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[
+             RasterBox[CompressedData["
+1:eJztmzFvEzEUxyNg6JiNtUysmRADQ7qA2KJWrEitCBUMAaVFiO0GRoZILIyV
++gGQGJkqBmZgR06FKoRQRRAghBA6/JI7al585+fzc85X50n/Km3vzu8X28/2
+s+/C1r3122dardbOivyxvvlwbTjcfLTRlr/cGOzc2R70b10f7Pa3+8PLW2fl
+H69kOieVpqkXiWsrHan7UntSB1KpQQfZtXBPx5dfzIy9zOcJgc+kSfasXt1c
+iLEtlUiNGRiLNM7KaNfMmjDVpU2dJzVwdj3XJ6W+uwtqu6MaObFGvtq4fO6q
+1JsAGLHAp1Vm1o5YbD+1FfjGMoY1gJWNuUGszsxi1l+bxKoyW/VnMYvDIcYm
+qsB3ctwWYY05VTUisnYD8JVLXQJvnfMmbo0NrEkAPnIrKYlRTYzHJgHTXOw6
+pXVbWMeC0G8/Prhq1OHG+bn7ju5eKrye4i8806Y8jcaItUcpl2I6hp/vXhVe
+TykXnmlTXoH+5UnELG9ivOfL/uNC33+8fjH9/4ebF428f75Ppn+D6ynlwjO/
+vdzXlm3Bu6fwkuMUtB9sv96/Lb1H9fP3p0Onvvj5Sb8q7yQ9WRNYlYnt6/On
+ZF747MKLv28L3lSc5EydeE3tUuU1fTe25Vvy5vnhhfFS+6wnXmou3Atv2ThT
+Nm458FqzcvKWjTPYmHid29OSd8m75OUrf8nLIxg7wFcQtnwuDDp+tlvKC/Ps
+JvDCnB3m+RTDazTO+ST44chLHoPh2ab61a2RVF74znRrKKpw+RXmG9bzSVzP
+Nv03N1gnUesa8gVwvc4qzCet1wvY/yq8uVHbVZFVWC9YrwdhjWPDG5Cme0vC
+Mi+JY0ZDeKfr/dQin6MKxp3c8jUtxGUYb8A4xh1mqfkcUr4OC3JKucFnHMcg
+9xIAZ67/zjWJivsouC87xBKfmttXEQ75duDK2zFu44FIl29n2U9xmUt4knY/
+xbWOA5Z2v8y1Hweq0v3QNML97jSy8wxK7IrmvErGHM15JIU5mvNmDWSO6Qwl
+GyvqzyHGMPbzwChuhzRWeTvvjbijOM+v4Y7ifQ1NG4/ifRwN+6l/36qEPcj3
+6f4CgLLCWA==
+              "], {{0, 0}, {60, 60}}, {0, 255}, ColorFunction -> 
+              RGBColor], AspectRatio -> 1, Axes -> False, Background -> None, 
+             Frame -> None, FrameTicks -> None, ImageSize -> 
+             Dynamic[{
+               Automatic, 
+                3.5 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                 Magnification])}, ImageSizeCache -> {45., {0., 9.}}]], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Name: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TemplateBox[{"\"NotebookRelativePath\"", "\" \"", 
+                    
+                    TemplateBox[{
+                    "\"\[RightGuillemet]\"", 
+                    "https://resources.wolframcloud.com/FunctionRepository/\
+resources/NotebookRelativePath"}, "HyperlinkURL"]}, "RowDefault"], 
+                  "SummaryItem"]}], 
+               TagBox["\"\"", "SummaryItem"]}, {
+               RowBox[{
+                 TagBox["\"Type: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["\"Function\"", "SummaryItem"]}], "\[SpanFromLeft]"}, {
+               RowBox[{
+                 TagBox["\"Description: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                 "\"Return the full path to a file relative to the current \
+notebook\"", "SummaryItem"]}], "\[SpanFromLeft]"}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}], True -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquareMinusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = False), Appearance -> None, 
+              Evaluator -> Automatic, Method -> "Preemptive"], 
+             Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[
+             RasterBox[CompressedData["
+1:eJztmzFvEzEUxyNg6JiNtUysmRADQ7qA2KJWrEitCBUMAaVFiO0GRoZILIyV
++gGQGJkqBmZgR06FKoRQRRAghBA6/JI7al585+fzc85X50n/Km3vzu8X28/2
+s+/C1r3122dardbOivyxvvlwbTjcfLTRlr/cGOzc2R70b10f7Pa3+8PLW2fl
+H69kOieVpqkXiWsrHan7UntSB1KpQQfZtXBPx5dfzIy9zOcJgc+kSfasXt1c
+iLEtlUiNGRiLNM7KaNfMmjDVpU2dJzVwdj3XJ6W+uwtqu6MaObFGvtq4fO6q
+1JsAGLHAp1Vm1o5YbD+1FfjGMoY1gJWNuUGszsxi1l+bxKoyW/VnMYvDIcYm
+qsB3ctwWYY05VTUisnYD8JVLXQJvnfMmbo0NrEkAPnIrKYlRTYzHJgHTXOw6
+pXVbWMeC0G8/Prhq1OHG+bn7ju5eKrye4i8806Y8jcaItUcpl2I6hp/vXhVe
+TykXnmlTXoH+5UnELG9ivOfL/uNC33+8fjH9/4ebF428f75Ppn+D6ynlwjO/
+vdzXlm3Bu6fwkuMUtB9sv96/Lb1H9fP3p0Onvvj5Sb8q7yQ9WRNYlYnt6/On
+ZF747MKLv28L3lSc5EydeE3tUuU1fTe25Vvy5vnhhfFS+6wnXmou3Atv2ThT
+Nm458FqzcvKWjTPYmHid29OSd8m75OUrf8nLIxg7wFcQtnwuDDp+tlvKC/Ps
+JvDCnB3m+RTDazTO+ST44chLHoPh2ab61a2RVF74znRrKKpw+RXmG9bzSVzP
+Nv03N1gnUesa8gVwvc4qzCet1wvY/yq8uVHbVZFVWC9YrwdhjWPDG5Cme0vC
+Mi+JY0ZDeKfr/dQin6MKxp3c8jUtxGUYb8A4xh1mqfkcUr4OC3JKucFnHMcg
+9xIAZ67/zjWJivsouC87xBKfmttXEQ75duDK2zFu44FIl29n2U9xmUt4knY/
+xbWOA5Z2v8y1Hweq0v3QNML97jSy8wxK7IrmvErGHM15JIU5mvNmDWSO6Qwl
+GyvqzyHGMPbzwChuhzRWeTvvjbijOM+v4Y7ifQ1NG4/ifRwN+6l/36qEPcj3
+6f4CgLLCWA==
+              "], {{0, 0}, {60, 60}}, {0, 255}, ColorFunction -> 
+              RGBColor], AspectRatio -> 1, Axes -> False, Background -> None, 
+             Frame -> None, FrameTicks -> None, ImageSize -> 
+             Dynamic[{
+               Automatic, 
+                3.5 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
+                 Magnification])}, ImageSizeCache -> {45., {0., 9.}}]], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Name: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TemplateBox[{"\"NotebookRelativePath\"", "\" \"", 
+                    TemplateBox[{
+                    "\"\[RightGuillemet]\"", 
+                    "https://resources.wolframcloud.com/FunctionRepository/\
+resources/NotebookRelativePath"}, "HyperlinkURL"]}, "RowDefault"], 
+                  "SummaryItem"]}], 
+               TagBox["\"\"", "SummaryItem"]}, {
+               RowBox[{
+                 TagBox["\"Type: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["\"Function\"", "SummaryItem"]}], "\[SpanFromLeft]"}, {
+               RowBox[{
+                 TagBox["\"Description: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                 "\"Return the full path to a file relative to the current \
+notebook\"", "SummaryItem"]}], "\[SpanFromLeft]"}, {
+               RowBox[{
+                 TagBox["\"Keywords: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  TagBox[
+                   
+                   TemplateBox[{
+                    ",", "\",\"", "\"notebooks\"", "\"paths\"", 
+                    "\"front end\""}, "RowWithSeparators"], Short], 
+                  "SummaryItem"]}], ""}, {
+               RowBox[{
+                 TagBox["\"Documentation: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                  
+                  TemplateBox[{
+                   "\"https://resources.wolframcloud.com/FunctionRepository/\
+resources/NotebookRelativePath\"", 
+                    "https://resources.wolframcloud.com/FunctionRepository/\
+resources/NotebookRelativePath"}, "HyperlinkURL"], "SummaryItem"]}], ""}, {
+               RowBox[{
+                 TagBox["\"UUID: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox[
+                 "\"fe239501-a2a0-4685-8e1d-8168bf4ba0c6\"", "SummaryItem"]}],
+                ""}, {
+               RowBox[{
+                 TagBox["\"Version: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["\"1.0.0\"", "SummaryItem"]}], ""}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, 
+             GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}]}, 
+       Dynamic[Typeset`open$$], ImageSize -> Automatic]},
+     "SummaryPanel"],
+    DynamicModuleValues:>{}], "]"}],
+  ResourceObject[
+   Association[
+   "Name" -> "NotebookRelativePath", "UUID" -> 
+    "fe239501-a2a0-4685-8e1d-8168bf4ba0c6", "ResourceType" -> "Function", 
+    "Version" -> "1.0.0", "Description" -> 
+    "Return the full path to a file relative to the current notebook", 
+    "RepositoryLocation" -> 
+    URL["https://www.wolframcloud.com/objects/resourcesystem/api/1.0"], 
+    "WolframLanguageVersionRequired" -> "10.0", "SymbolName" -> 
+    "FunctionRepository`$a3c39e91cba643f9baeb527709eb8e8b`\
+NotebookRelativePath", "FunctionLocation" -> 
+    CloudObject[
+     "https://www.wolframcloud.com/objects/75f27a56-ceea-4d1c-8f47-\
+a2f2ff82aa60"], "ShortName" -> "NotebookRelativePath"], {
+   ResourceSystemBase -> Automatic}],
+  Editable->False,
+  SelectWithContents->True,
+  Selectable->False]], "Output",
+ CellChangeTimes->{3.76210607936331*^9},
+ CellLabel->"Out[14]=",ExpressionUUID->"83903456-8a7f-4f85-9c5d-58a9eafbc18b"]
+}, Open  ]],
+
+Cell["Get an iconized thing", "Text",
+ CellChangeTimes->{{3.76210624936436*^9, 
+  3.7621062524916697`*^9}},ExpressionUUID->"73ba043e-6512-4885-9bb9-\
+cd627af10afb"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ResourceFunction", "[", "\"\<NotebookRelativePath\>\"", 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.762106122447064*^9, 3.762106122448535*^9}},
+ CellLabel->"In[16]:=",ExpressionUUID->"16f8284a-6973-4758-9d5d-d288734cd5c8"],
+
+Cell[BoxData[
+ InterpretationBox[
+  FrameBox[
+   TagBox[GridBox[{
+      {
+       StyleBox["\<\"\[EmptyCircle]\"\>",
+        StripOnInput->False,
+        ShowStringCharacters->False,
+        FontSize->1.2 Inherited,
+        FontWeight->Dynamic[
+          FEPrivate`If[
+           CurrentValue[Evaluatable], Bold, Plain]],
+        FontColor->RGBColor[0.9882352941176471, 0.4, 0.25098039215686274`]], 
+       StyleBox["\<\"NotebookRelativePath\"\>",
+        StripOnInput->False,
+        ShowAutoStyles->False,
+        ShowStringCharacters->False,
+        FontFamily->"Roboto",
+        FontSize->0.9 Inherited,
+        FontWeight->Dynamic[
+          FEPrivate`If[
+           CurrentValue[Evaluatable], "DemiBold", Plain]],
+        FontColor->RGBColor[
+         0.2784313725490196, 0.2784313725490196, 0.2784313725490196]]}
+     },
+     AutoDelete->False,
+     GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Center}}},
+     GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+     GridBoxSpacings->{"Columns" -> {{0.25}}}],
+    "Grid"],
+   Selectable -> False,
+   Background->RGBColor[
+    0.9686274509803922, 0.9686274509803922, 0.9686274509803922],
+   ContentPadding->False,
+   FrameMargins->{{3, 4}, {2, 2}},
+   FrameStyle->Directive[
+     Thickness[1], 
+     RGBColor[0.8627450980392157, 0.8627450980392157, 0.8627450980392157]],
+   RoundingRadius->3,
+   StripOnInput->False],
+  ResourceFunction[
+   ResourceObject[
+    Association[
+    "Name" -> "NotebookRelativePath", "UUID" -> 
+     "fe239501-a2a0-4685-8e1d-8168bf4ba0c6", "ResourceType" -> "Function", 
+     "Version" -> "1.0.0", "Description" -> 
+     "Return the full path to a file relative to the current notebook", 
+     "RepositoryLocation" -> 
+     URL["https://www.wolframcloud.com/objects/resourcesystem/api/1.0"], 
+     "WolframLanguageVersionRequired" -> "10.0", "SymbolName" -> 
+     "FunctionRepository`$a3c39e91cba643f9baeb527709eb8e8b`\
+NotebookRelativePath", "FunctionLocation" -> 
+     LocalObject[
+      "file:///Users/flip/Library/Wolfram/Objects/Resources/fe2/fe239501-a2a0-\
+4685-8e1d-8168bf4ba0c6/download/DefinitionData"], "ShortName" -> 
+     "NotebookRelativePath"], ResourceSystemBase -> 
+    "https://www.wolframcloud.com/objects/resourcesystem/api/1.0"]],
+  Selectable->False]], "Output",
+ CellChangeTimes->{3.762106138414439*^9},
+ CellLabel->"Out[16]=",ExpressionUUID->"69a25d75-3220-4530-a5d4-e64468f85dee"]
+}, Open  ]],
+
+Cell["Use it without iconizing", "Text",
+ CellChangeTimes->{{3.762106255585326*^9, 
+  3.7621062589715347`*^9}},ExpressionUUID->"e2b09b70-284d-4510-ba7b-\
+80658df77dde"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"ResourceFunction", "[", "\"\<NotebookRelativePath\>\"", "]"}], 
+  "[", "\"\<data.csv\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.7621061287021437`*^9, 3.762106128703491*^9}},
+ CellLabel->"In[15]:=",ExpressionUUID->"c7320f30-5806-4705-b3a3-aa0f07433237"],
+
+Cell[BoxData["\<\"/Users/flip/Skidmore College/Computational Methods - \
+Documents/Class Materials/Data/Spectra/AS7262/data.csv\"\>"], "Output",
+ CellChangeTimes->{3.7621061298262978`*^9},
+ CellLabel->"Out[15]=",ExpressionUUID->"8de3dda2-0f19-4e13-8cc8-3ac3404af0b3"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{312, Automatic}, {64, Automatic}},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (March 18, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 165, 3, 67, "Section",ExpressionUUID->"aa5cf197-10b4-4517-8bc0-4677af49ad0f"],
+Cell[748, 27, 182, 3, 35, "Text",ExpressionUUID->"107ec88d-d3d0-4c45-ad1f-085b7279596f"],
+Cell[933, 32, 283, 5, 30, "Input",ExpressionUUID->"cff25cb0-6a3d-45dc-aabe-115d70e52f94"],
+Cell[1219, 39, 155, 3, 35, "Text",ExpressionUUID->"67a4b088-70ca-4953-bf4b-3bf524f0e6d3"],
+Cell[CellGroupData[{
+Cell[1399, 46, 176, 3, 30, "Input",ExpressionUUID->"f25bb930-7a28-4862-9771-eb4fa8eadf6a"],
+Cell[1578, 51, 10316, 207, 179, "Output",ExpressionUUID->"83903456-8a7f-4f85-9c5d-58a9eafbc18b"]
+}, Open  ]],
+Cell[11909, 261, 164, 3, 35, "Text",ExpressionUUID->"73ba043e-6512-4885-9bb9-cd627af10afb"],
+Cell[CellGroupData[{
+Cell[12098, 268, 244, 4, 30, "Input",ExpressionUUID->"16f8284a-6973-4758-9d5d-d288734cd5c8"],
+Cell[12345, 274, 2418, 59, 38, "Output",ExpressionUUID->"69a25d75-3220-4530-a5d4-e64468f85dee"]
+}, Open  ]],
+Cell[14778, 336, 168, 3, 35, "Text",ExpressionUUID->"e2b09b70-284d-4510-ba7b-80658df77dde"],
+Cell[CellGroupData[{
+Cell[14971, 343, 289, 5, 30, "Input",ExpressionUUID->"c7320f30-5806-4705-b3a3-aa0f07433237"],
+Cell[15263, 350, 267, 3, 56, "Output",ExpressionUUID->"8de3dda2-0f19-4e13-8cc8-3ac3404af0b3"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
