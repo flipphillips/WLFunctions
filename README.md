@@ -9,8 +9,10 @@ A place to keep some of the things I’ve submitted to the [Wolfram Function Rep
 ### Accepted in WRI repository
 [`NotebookRelativePath`](https://resources.wolframcloud.com/FunctionRepository/resources/NotebookRelativePath) - returns a path relative to the currently evaluating notebook.
 
+[`TimeSeriesZero`](https://resources.wolframcloud.com/FunctionRepository/resources/TimeSeriesZero) - shifts a time series / temporal data object to start at t0 = 0 sec.
+
 ### Submitted
-`TimeSeriesZero` - shifts a time series / temporal data object to start at t0 = 0 sec.
+
 
 ### In Progress
 `UnitizedGaussian` - returns a Gaussian function whose value is 1.0 at its mean.
