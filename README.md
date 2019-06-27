@@ -7,15 +7,18 @@ A place to keep some of the things I’ve submitted to the [Wolfram Function Rep
 ## Functions
 
 ### Accepted in WRI repository
-[`NotebookRelativePath`](https://resources.wolframcloud.com/FunctionRepository/resources/NotebookRelativePath) - returns a path relative to the currently evaluating notebook.
+- [`NotebookRelativePath`](https://resources.wolframcloud.com/FunctionRepository/resources/NotebookRelativePath) - returns a path relative to the currently evaluating notebook.
+- [`TimeSeriesZero`](https://resources.wolframcloud.com/FunctionRepository/resources/TimeSeriesZero) - shifts a time series / temporal data object to start at t0 = 0 sec.
 
 ### Submitted
-`TimeSeriesZero` - shifts a time series / temporal data object to start at t0 = 0 sec.
+- `SecondsToday` - how many seconds have elapsed today.
 
 ### In Progress
-`UnitizedGaussian` - returns a Gaussian function whose value is 1.0 at its mean.
+- `UnitizedGaussian` - returns a Gaussian function whose value is 1.0 at its mean.
+- `PropertiesAbailablilty` - returns a list of which `"Properties"` of an object are available and which ones are not.
+- `GatherSortBy` - sort a list and then gather by the sort key.
 
 ### Note
-These will probably become ‘pacletized’ at some point, depending on the distribution model. I plan on migrating some of the more appropriate things from [`FPTools`](https://github.com/flipphillips/FPTools) to here, I think.
+I plan on migrating some of the more appropriate things from [`FPTools`](https://github.com/flipphillips/FPTools) to here, I think, maybe.
 
 -fp
