@@ -22,7 +22,7 @@ Temporary, public deployments to my own cloud account are linked here
 ### In Progress
 
 - `UnitizedGaussian` - returns a Gaussian function whose value is 1.0 at its mean.
-- `PropertiesAbailablilty` - returns a list of which `"Properties"` of an object are available and which ones are not.
+- `PropertiesAvailability` - returns a list of which `"Properties"` of an object are available and which ones are not.
 - `GatherSortBy` - sort a list and then gather by the sort key.
 
 ### Note
