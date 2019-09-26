@@ -16,4 +16,4 @@ Probably should add image check for a and b, and maybe even allow specification 
 WhereTheHellAmI[]:=If[$InputFileName == "", NotebookDirectory[], DirectoryName[$InputFileName]]
 ```
 
-Alternate to my `WhereTheFuck[]` that I would prefer. 
+Alternate to my `WhereTheFuck[]` that I would prefer.
