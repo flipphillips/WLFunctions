@@ -11,13 +11,15 @@ A place to keep some of the things I’ve submitted to the [Wolfram Function Rep
 - [`NotebookRelativePath`](https://resources.wolframcloud.com/FunctionRepository/resources/NotebookRelativePath) - returns a path relative to the currently evaluating notebook.
 - [`TimeSeriesZero`](https://resources.wolframcloud.com/FunctionRepository/resources/TimeSeriesZero) - shifts a time series / temporal data object to start at t0 = 0 sec.
 - [`SecondsToday`](https://resources.wolframcloud.com/FunctionRepository/resources/SecondsToday) - how many seconds have elapsed today.
+- [`SmoothStep`](https://resources.wolframcloud.com/FunctionRepository/resources/SmoothStep) - RenderMan / Perlin smooth interpolation. 
+- [`SmootherStep`](https://resources.wolframcloud.com/FunctionRepository/resources/SmootherStep) - An improvement on `SmoothStep` which is 2nd order continuous at t0 and t1. 
 
 ### Submitted
 
 Temporary, public deployments to my own cloud account are linked here
 
-- [`SmoothStep`](https://www.wolframcloud.com/obj/user-e18bc1c7-3afd-425b-9021-c3a6d453acd3/DeployedResources/Function/SmoothStep) - RenderMan / Perlin smooth interpolation. 8 Aug 19.
-- [`SmootherStep`](https://www.wolframcloud.com/obj/user-e18bc1c7-3afd-425b-9021-c3a6d453acd3/DeployedResources/Function/SmootherStep) - An improvement on `SmoothStep` which is 2nd order continuous at t0 and t1. 8 Aug 19.
+- [NotebookEvaluator](https://www.wolframcloud.com/obj/flip/DeployedResources/Function/NotebookEvaluator) - returns the evaluating notebook's evaluator. Useful in remote kernel situations.
+
 
 ### In Progress
 
