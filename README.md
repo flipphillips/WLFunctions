@@ -1,4 +1,4 @@
-# WLFunctions
+****# WLFunctions
 
 ![icon](icon.png)
 
@@ -21,6 +21,8 @@ A place to keep some of the things I’ve submitted to the [Wolfram Function Rep
 Temporary, public deployments to my own cloud account are linked here
 
 - [NotebookEvaluator](https://www.wolframcloud.com/obj/flip/DeployedResources/Function/NotebookEvaluator) - returns the evaluating notebook's evaluator. Useful in remote kernel situations.
+
+- [BresenhamPoints](https://www.wolframcloud.com/obj/flip/DeployedResources/Function/BresenhamPoints) - Bresenham's algorithm.
 
 
 ### In Progress
